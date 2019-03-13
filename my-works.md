@@ -1,7 +1,3 @@
-# README
-
-List of sites that I work
-
 1. https://katerina-borodina.github.io/good_cardboard/src
 2. https://katerina-borodina.github.io/flex-misocial/src
 3. https://katerina-borodina.github.io/test/build/index.html
